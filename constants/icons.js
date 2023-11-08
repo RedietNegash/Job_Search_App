@@ -6,12 +6,12 @@ import left from "../app/assets/icons/left.png";
 import heartOutline from "../app/assets/icons/heart-ol.png";
 import share from "../app/assets/icons/share.png";
 import location from "../app/assets/icons/location.png";
-import chevronLeft from '../app/assets/icons/chevron-left.png'
-import chevronRight from '../app/assets/icons/chevron-right.png'
-import profile from '../app/assets/images/kemal.jpg'
+import chevronLeft from "../app/assets/icons/chevron-left.png";
+import chevronRight from "../app/assets/icons/chevron-right.png";
+import profile from "../app/assets/images/pp6.jpg";
 export default {
   profile,
- heart,
+  heart,
   menu,
   search,
   filter,
@@ -20,5 +20,5 @@ export default {
   share,
   location,
   chevronLeft,
-  chevronRight
+  chevronRight,
 };
